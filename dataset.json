@@ -6,7 +6,7 @@
   "config_category": "expansion",
   "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in Charlotte-Concord-Gastonia, NC-SC that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
   "config_name": "White Space Finder in Charlotte-Concord-Gastonia (Metro), NC-SC, US",
-  "export_job_id": "07041975-baee-4598-bee7-82c2ca8f3105",
+  "export_job_id": "533e304d-e0cc-4d6c-9893-dfc6fb2377e5",
   "github_org": "Beamstation-Datasets",
   "id_short": 317856,
   "location_name": "Charlotte-Concord-Gastonia, NC-SC",
@@ -15,8 +15,8 @@
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/317856/beamstation_317856_food_and_drink-us-charlotteconcordgastoniancsc_SAMPLE_DIST.csv",
   "sample_pct": 9.52,
   "sample_records": 10,
-  "sample_sha256": "6e381eb6eb058b496c8c851095a9e18e5face4aa6459cb7f87fb3e9af4849daf",
-  "sample_size_bytes": 52599,
+  "sample_sha256": "36d8e3aa1144c0df5def827856977667672b06c25018c767abeddba38e840d0b",
+  "sample_size_bytes": 53137,
   "total_records": 105,
-  "updated_at": "2026-04-08T01:35:51.940804+00:00"
+  "updated_at": "2026-04-15T07:03:58.004571+00:00"
 }
