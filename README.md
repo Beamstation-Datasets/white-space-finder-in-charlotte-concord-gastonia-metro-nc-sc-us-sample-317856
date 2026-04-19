@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 105 records |
 | Free sample size | 10 records (9.52%) |
-| Last export | 2026-04-08T01:35:51.940804+00:00 |
+| Last export | 2026-04-15T07:03:58.004571+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-charlotte-concord-gastonia-metro-nc-sc-us-sample-317856/releases/download/sample-latest/beamstation_317856_food_and_drink-us-charlotteconcordgastoniancsc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
