@@ -1,12 +1,12 @@
 {
-  "export_job_id": "533e304d-e0cc-4d6c-9893-dfc6fb2377e5",
+  "export_job_id": "48f25e05-f852-4ce9-9856-6db5a87ec8ac",
   "id_short": 317856,
-  "published_at": "2026-04-19T07:21:28Z",
+  "published_at": "2026-04-22T19:33:06Z",
   "repo_name": "white-space-finder-in-charlotte-concord-gastonia-metro-nc-sc-us-sample-317856",
   "sample_asset_name": "beamstation_317856_food_and_drink-us-charlotteconcordgastoniancsc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/317856/beamstation_317856_food_and_drink-us-charlotteconcordgastoniancsc_SAMPLE_DIST.csv",
-  "sample_records": 10,
-  "sample_sha256": "36d8e3aa1144c0df5def827856977667672b06c25018c767abeddba38e840d0b",
-  "sample_size_bytes": 53137,
-  "total_records": 105
+  "sample_records": 2,
+  "sample_sha256": "8b72138ee4e06dc1cefcf484fb81123ff2935c1915a6248f77d76346f7f18a17",
+  "sample_size_bytes": 23576,
+  "total_records": 29
 }
