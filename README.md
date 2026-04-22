@@ -1,6 +1,6 @@
 # White Space Finder in Charlotte-Concord-Gastonia (Metro), NC-SC, US
 
-> Free BeamStation sample export with 10 rows and masked direct-contact fields.
+> Free BeamStation sample export with 2 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `317856` |
 | Location | Charlotte-Concord-Gastonia, NC-SC |
 | Category | Restaurants |
-| Full dataset size | 105 records |
-| Free sample size | 10 records (9.52%) |
-| Last export | 2026-04-15T07:03:58.004571+00:00 |
+| Full dataset size | 29 records |
+| Free sample size | 2 records (6.9%) |
+| Last export | 2026-04-22T13:15:57.418036+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-charlotte-concord-gastonia-metro-nc-sc-us-sample-317856/releases/download/sample-latest/beamstation_317856_food_and_drink-us-charlotteconcordgastoniancsc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
